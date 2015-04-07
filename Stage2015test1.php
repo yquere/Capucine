@@ -1,6 +1,6 @@
 <html>
   <head>
-   <title>Demonstrateur SigFox</title>
+   <title>Information SigFox</title>
   </head>
   <body>
   <?php
